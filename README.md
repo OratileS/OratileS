@@ -26,7 +26,7 @@ I am passionate about using technology to solve real-world problems and continuo
 
 ## ✨ Beyond Coding
 
-When I'm not coding or studying, you'll probably find me working on student initiatives, planning events, looking for new opportunities to gain experience or finding new ways to combine technology and leadership to create positive impact. 
+When I'm not coding or studying, you'll probably find me attending reading a book, looking for new opportunities to learn and grow or spending time with family and friends. 
 
 ## 🌐 Connect With Me
 
