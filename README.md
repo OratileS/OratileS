@@ -9,7 +9,7 @@ I am passionate about using technology to solve real-world problems and continuo
 ## 🚀 About Me
 
 - 🎓 Information Systems and Technology student at UKZN
-- 💻 Aspiring Software Developer
+- 💻 Aspiring SDET
 - 🌱 Currently learning and building with C# and .NET
 - 📚 Interested in Software Development, Information Systems, Databases, and Business Technology
 - 🤝 Active in student leadership and community initiatives
