@@ -8,21 +8,21 @@ I am passionate about using technology to solve real-world problems and continuo
 
 ## 🚀 About Me
 
-🎓 Information Systems and Technology student at UKZN
-💻 Aspiring Software Developer
-🌱 Currently learning and building with C# and .NET
-📚 Interested in Software Development, Information Systems, Databases, and Business Technology
-🤝 Active in student leadership and community initiatives
-📋 Experienced in organising events, coordinating teams, and managing administrative processes
-🔍 Always looking for opportunities to learn, improve, and take on new challenges
+- 🎓 Information Systems and Technology student at UKZN
+- 💻 Aspiring Software Developer
+- 🌱 Currently learning and building with C# and .NET
+- 📚 Interested in Software Development, Information Systems, Databases, and Business Technology
+- 🤝 Active in student leadership and community initiatives
+- 📋 Experienced in organising events, coordinating teams, and managing administrative processes
+- 🔍 Always looking for opportunities to learn, improve, and take on new challenges
 
 ## 📂 What You'll Find Here
 
-Academic projects
-Personal coding projects
-Programming exercises
-Experiments with new technologies
-Learning journey and development progress
+- Academic projects
+- Personal coding projects
+- Programming exercises
+- Experiments with new technologies
+- Learning journey and development progress
 
 ## ✨ Beyond Coding
 
